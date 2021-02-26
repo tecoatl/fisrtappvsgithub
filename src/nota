@@ -1,0 +1,23 @@
+firstappvs
+https://www.youtube.com/watch?v=AR1tLGQ7COs
+
+Nos vamos a angularCarp (por msDos) creamos *firstappvs (ng new XXX, tarda
+y no olvidar darle doble enter)
+y para visualizarla solo ahi q arrastrar la carpeta a visual studio core
+
+Para ejecutarlo es con el comando (dentro del proyecto tal cual)
+ng serve (creara un servidor, (tarda un rato) para verlo en http://localhost:4200/)
+
+Para ver los errores es en comando (lo esta ejecutando, he igual no se necesita
+refrescar el proyecto, lo hace en automatico) 
+o en opciones/herramientas/herramientas para desarrolladores
+
+modificamos: 
+app.modile.ts
+app.component.html
+app.component.css
+
+capeta primercomponente:
+primer.component.css
+primer.component.html
+primer.component.ts
